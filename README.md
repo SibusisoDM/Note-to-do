@@ -5,9 +5,8 @@ My Notes App is a simple note-taking application built using React, HTML, and CS
 
 ## Demo
 
-You can try the app live at [My Notes App Demo](https://example.com/my-notes-app-demo).
+You can try the app live at https://SibusisoDM.github.io/Note-to-do/ .
 
-![My Notes App Demo](/screenshots/demo.png)
 
 ## Features
 
